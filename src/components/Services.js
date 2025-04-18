@@ -7,22 +7,22 @@ const services = [
   {
     name: "Frontend-Development",
     description:
-      "Worked as a frontend team laeder and developer for 6th months on sponsered industry project . Languages such as Javascript,React js , Tailwind css , Html ,CSS , MongoDB , Mysql ",
+      "Worked as a frontend team leader and developer for 6 months on sponsored industry projects. Experience with JavaScript, React.js, Tailwind CSS, HTML, CSS, MongoDB, and MySQL",
   },
   {
-    name: "UI,UX Design",
+    name: "UI/UX Design",
     description:
-      "Desiging through figma",
+      "Designing through Figma with focus on user experience and interface design",
   },
   {
-    name: "Content writer",
+    name: "Content Writer",
     description:
-      "Deep research through the points , better english profeciency ",
+      "Deep research capabilities with strong English proficiency",
   },
   {
     name: "Management",
     description:
-      "Good with management work , can lead and guide the team for achieving the desired motive",
+      "Strong team management skills with proven ability to lead and guide teams in achieving desired objectives",
   },
 ];
 
